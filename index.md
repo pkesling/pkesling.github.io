@@ -34,7 +34,7 @@ My leadership shows up through **architecture, execution, and alignment**, not p
 ## Experience snapshot
 
 - **Broadcom (VMware by Broadcom)** — Staff-level data engineering and technical leadership for secure software release and auditability across a large, multi-product portfolio
-- **VMware** — Over a decade progressing from Senior Engineer to Staff II Engineer, leading global data platform and analytics initiatives
+- **VMware** — Over a decade progressing from MTS to Staff II Engineer, leading global software, data platform, and analytics teams and initiatives
 - **SGI** — Early career building automation frameworks and systems for large-scale storage platforms
 
 ---
