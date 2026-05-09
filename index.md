@@ -12,6 +12,8 @@ While much of my background involves large-scale data systems, I increasingly po
 
 I’m currently exploring Staff and Principal Software Engineering opportunities focused on backend systems, platform engineering, internal developer infrastructure, developer productivity, data-intensive applications, and distributed services.
 
+**Quick Jump:** [Focus](#areas-of-focus) · [Technologies](#technologies-and-platforms) · [Experience](#selected-experience) · [Projects](#personal-projects) · [Interests](#professional-interests) · [Contact](#contact--links)
+
 ---
 
 # Areas of Focus
