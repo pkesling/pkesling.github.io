@@ -1,117 +1,234 @@
-# Phillip Kesling
+# Phil Kesling
 
-**Staff-Level Software Engineer (Data Platforms, Pipelines, and Products)**  
-Greater Madison Area, WI · Open to Remote
+## Staff Software Engineer | Backend Platforms, APIs, and Data-Intensive Systems
 
-I’m a staff-level software engineer focused on **end-to-end data platforms and data-backed products** — spanning
-ingestion, modeling, APIs, analytics, and self-service reporting — with a focus on systems teams can trust, understand,
-and extend over time.
+I’m a staff-level software engineer with deep experience building backend platforms, internal developer systems, APIs, automation frameworks, and data-intensive applications at enterprise scale.
 
-I’m primarily targeting **Staff Data Engineering / Data Platform Engineering** roles, while remaining open to broader
-**Staff Software Engineering** opportunities where data-intensive systems are central to the product.
+Over the last 20+ years, I’ve worked across software engineering, platform engineering, distributed systems, and data architecture roles — designing systems that improve developer productivity, operational visibility, auditability, and organizational decision making. My work has frequently involved ambiguous or evolving domains where long-term maintainability, system clarity, and cross-team collaboration mattered as much as the technology itself.
 
-I’ve spent much of my career working in large, distributed engineering organizations, serving as both **technical 
-and project lead** for initiatives involving engineers across the U.S., Europe, India, and China. I’m comfortable 
-operating in remote and hybrid environments, and I tend to be most effective in complex efforts where clarity, 
-alignment, and good engineering judgment matter more than formal authority.
+Most recently, I worked on VMware’s Secure Release Platform initiative, helping design and build systems that collected, indexed, analyzed, and exposed software supply chain and SDLC evidence across hundreds of product releases. The platform supported engineering, security, compliance, and executive stakeholders through APIs, analytical services, and internal tooling focused on trust, discoverability, and operational insight.
+
+While much of my background involves large-scale data systems, I increasingly position myself as a software engineer who specializes in building durable platforms and services — particularly systems involving complex workflows, distributed ownership, automation, APIs, observability, and large or evolving datasets.
+
+I’m currently exploring Staff and Principal Software Engineering opportunities focused on backend systems, platform engineering, internal developer infrastructure, developer productivity, data-intensive applications, and distributed services.
 
 ---
 
-## How I lead
+# Areas of Focus
 
-My leadership shows up through **architecture, execution, and alignment**, rather than people management.
+- Backend platform engineering
 
-I’m often asked to help when goals are ambiguous, systems are under strain, or multiple teams need to converge around
-shared data and platforms. In those situations, I focus on making tradeoffs explicit, establishing clear ownership,
-and helping teams move forward with confidence.
+- Internal developer platforms and tooling
 
-In practice, that includes:
+- Distributed systems and service architecture
 
-- Acting as **technical owner** for shared data platforms and services  
-- Setting direction for systems that span teams, organizations, and time zones  
-- Translating unclear goals into concrete designs, milestones, and delivery plans  
-- Aligning stakeholders with competing incentives around shared data contracts  
-- Mentoring engineers to reason about systems, tradeoffs, and long-term impact  
+- APIs and service design
 
----
+- Data-intensive applications
 
-## What I build
+- Workflow automation and orchestration
 
-I enjoy working on systems that sit at the foundation of other teams’ work.
+- Observability and operational visibility
 
-- **Data platforms** that support analytics, APIs, and ML without duplication  
-- **Durable data models and pipelines** designed to evolve without breaking consumers  
-- **Backend services and APIs** built on top of data systems  
-- **Curated, experiment-ready datasets** that enable analytics and ML teams  
-- **Self-service dashboarding and reporting foundations** that improve decision velocity  
-- **Trust mechanisms** such as data quality checks, observability, lineage, and clear ownership  
+- Software supply chain and SDLC systems
+
+- Data architecture and governance
+
+- Cross-functional technical leadership
+
+- Large-scale analytical and operational systems
 
 ---
 
-## Experience snapshot
+# Technologies and Platforms
 
-- **Broadcom (VMware by Broadcom)** — Staff-level data engineering and technical leadership for secure software release, auditability, and traceability across a large, multi-product portfolio  
-- **VMware** — Over a decade progressing from Senior Engineer to Staff II Engineer, leading global data platform and analytics initiatives  
-- **SGI** — Early career building automation frameworks and systems for large-scale storage platforms  
+## Languages
+
+- Python
+
+- Go
+
+- SQL
+
+- JavaScript / TypeScript (working knowledge)
+
+## Backend & Platform Technologies
+
+- FastAPI
+
+- GraphQL
+
+- REST APIs
+
+- Kafka and event-driven architectures
+
+- GitHub Actions
+
+- Kubernetes
+
+- Docker
+
+## Databases & Storage
+
+- PostgreSQL
+
+- Oracle
+
+- Redis
+
+- Object storage / S3-style storage systems
+
+## Data & Analytics Technologies
+
+- Airflow
+
+- dbt
+
+- Hadoop / Hive
+
+- Tableau
+
+- Superset
+
+- DuckDB
+
+- Polars / Pandas
+
+## Development & Infrastructure
+
+- GitHub
+
+- GitLab
+
+- Linux
+
+- CI/CD systems
+
+- Observability and monitoring systems
 
 ---
 
-## Selected projects
+# Selected Experience
 
-### OpenVelo Insight — AI-assisted bicycling conditions platform
+## VMware / Broadcom
 
-A personal project showing how AI can be layered on top of reliable data systems to deliver actionable, explainable
-insights. The system ingests weather and air-quality data, models conditions across time windows, and uses an AI agent
-to generate contextual recommendations.
+### Staff II Engineer
 
-- End-to-end data ingestion and modeling  
-- Analytics and scoring logic exposed through a user-facing AI interface  
-- Emphasis on explainability, traceability, and practical decision support  
+*2013 – 2025*
 
-[View on GitHub](https://github.com/pkesling/openvelo-insight)
+Worked across platform engineering, backend systems, data architecture, and internal developer tooling initiatives supporting large-scale engineering organizations.
 
----
+### Secure Release Platform (SRP)
 
-### Event-Driven Open Weather Insight
+Contributed to the architecture and implementation of VMware’s Secure Release Platform initiative, focused on improving software supply chain visibility, SDLC auditability, and release trust across hundreds of coordinated product releases.
 
-An event-driven data platform prototype built to explore ingestion, processing, and storage patterns for open weather
-data. The focus is on reliability, scalability, observability, and durable platform architecture.
+Key contributions included:
 
-- Event-driven and asynchronous processing  
-- Emphasis on durable pipelines, schema evolution, and clear data ownership  
-- Platform-oriented design that supports analytics, APIs, and downstream consumers  
+- Designing data and service architectures for collecting and indexing SDLC evidence generated by distributed engineering systems
 
-[View on GitHub](https://github.com/pkesling/event-driven-open-weather-insight)
+- Building internal APIs and services used for compliance, auditing, vulnerability impact analysis, and operational reporting
 
----
+- Developing scalable ingestion and transformation pipelines for heterogeneous engineering metadata and provenance artifacts
 
-### Surface Mapper
+- Improving discoverability and queryability of immutable evidence stored across diverse systems and formats
 
-A geospatial data project focused on transforming surface and terrain inputs into clear, reusable outputs for analytics
-and visualization workflows. Put simply, it creates beautiful geospatial maps from pluggable data sources.
+- Collaborating across engineering, security, release management, and compliance organizations to standardize and operationalize platform capabilities
 
-- Surface and geospatial data processing workflow  
-- Reproducible transformations designed for repeatable analysis  
-- Practical foundation for mapped outputs, dashboards, and downstream data products  
+- Supporting executive-level reporting and cross-product operational visibility initiatives
 
-[View on GitHub](https://github.com/pkesling/surface-mapper)
+### Data Platform & Infrastructure Engineering
 
----
+Additional work included:
 
-## Selected technologies
+- Designing and operating enterprise data platforms and analytical systems
 
-Python · SQL · PostgreSQL · Oracle DB · Apache Airflow · dbt  
-APIs · Microservices · Go  
-Apache Superset · Tableau · Grafana
+- Supporting large-scale telemetry ingestion and transformation workflows
+
+- Building operational dashboards and internal engineering reporting systems
+
+- Developing workflow automation and orchestration tooling
+
+- Migrating and modernizing long-lived database and reporting systems
+
+- Improving developer and operational visibility through centralized data services
 
 ---
 
-## Links
+# Personal Projects
 
-- [Resume (PDF)](/PhillipKesling_Resume.pdf)  
-- [LinkedIn](https://www.linkedin.com/in/phillipkesling)  
-- [GitHub](https://github.com/pkesling)  
+## Event-Driven Open Weather Insight
+
+An event-driven weather and environmental data platform designed to explore modern streaming architectures, topic contracts, orchestration, and analytical workflows.
+
+Technologies and concepts explored include:
+
+- Kafka-style event-driven architectures
+
+- Topic contracts and schema governance
+
+- Airflow orchestration
+
+- Python-based ingestion and processing services
+
+- PostgreSQL analytical storage
+
+- Containerized services and workflows
+
+- Observability and operational logging
+
+- Modular ingestion and sink architectures
+
+GitHub Repository:
+
+- https://github.com/pkesling/event-driven-open-weather-insight
 
 ---
 
-_Last updated: 2026_
+## Surface Mapper / eBird Visualization Work
+
+Exploratory geospatial and analytical visualization projects focused on large-scale environmental and observational datasets.
+
+Areas explored include:
+
+- Geospatial aggregation and visualization
+
+- H3 indexing
+
+- Large-scale dataset processing
+
+- DuckDB analytical workflows
+
+- Mapping and rendering pipelines
+
+- CLI tooling and data processing workflows
+
+GitHub Repository:
+- https://github.com/pkesling/surface-mapper
+
+---
+
+# Professional Interests
+
+I’m particularly interested in systems and organizations where software engineering, platform design, operational excellence, and developer productivity come together to solve meaningful engineering problems.
+
+Areas I enjoy most include:
+
+- Building platforms that simplify complex workflows
+
+- Designing systems that evolve cleanly over time
+
+- Improving visibility and observability across organizations
+
+- Creating internal tools that engineers genuinely enjoy using
+
+- Working on technically ambiguous problems that require strong collaboration and architectural judgment
+
+- Helping teams operationalize and scale engineering processes
+
+---
+
+# Contact & Links
+
+- GitHub: https://github.com/pkesling
+
+- LinkedIn: https://www.linkedin.com/in/phillipkesling/
