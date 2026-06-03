@@ -1,16 +1,18 @@
 # Phil Kesling
 
-## Staff Software Engineer | Backend Platforms, APIs, and Data-Intensive Systems
+## Staff Software Engineer | Engineering Platforms, Data Systems, Backend Services
 
-I’m a staff-level software engineer with deep experience building backend platforms, internal developer systems, APIs, automation frameworks, and data-intensive applications at enterprise scale.
+I’m a staff-level software engineer with more than 20 years of experience designing and building engineering platforms, backend services, APIs, automation frameworks, and data-intensive systems at enterprise scale.
 
-Over the last 20+ years, I’ve worked across software engineering, platform engineering, distributed systems, and data architecture roles — designing systems that improve developer productivity, operational visibility, auditability, and organizational decision making. My work has frequently involved ambiguous or evolving domains where long-term maintainability, system clarity, and cross-team collaboration mattered as much as the technology itself.
+My work has supported more than 10,000 engineers across 40+ teams and over 150 products, helping organizations improve developer productivity, software delivery, operational visibility, auditability, and decision-making. I specialize in turning fragmented systems, data, and workflows into trusted platforms that teams can reliably build upon.
 
-Most recently, I worked on VMware’s Secure Release Platform initiative, helping design and build systems that collected, indexed, analyzed, and exposed software supply chain and SDLC evidence across hundreds of product releases. The platform supported engineering, security, compliance, and executive stakeholders through APIs, analytical services, and internal tooling focused on trust, discoverability, and operational insight.
+Throughout my career, I’ve worked across software engineering, platform engineering, distributed systems, and data architecture roles. I’m frequently brought into complex or ambiguous initiatives to clarify technical direction, align stakeholders, and design systems that balance immediate business needs with long-term maintainability and operational excellence.
 
-While much of my background involves large-scale data systems, I increasingly position myself as a software engineer who specializes in building durable platforms and services — particularly systems involving complex workflows, distributed ownership, automation, APIs, observability, and large or evolving datasets.
+Most recently, I helped design and build VMware’s Secure Release Platform, creating services, APIs, analytics capabilities, and software supply chain visibility systems that enabled engineering, security, compliance, and executive teams to understand and audit relationships across hundreds of product releases and millions of software artifacts.
 
-I’m currently exploring Staff and Principal Software Engineering opportunities focused on backend systems, platform engineering, internal developer infrastructure, developer productivity, data-intensive applications, and distributed services.
+My strongest expertise is in platform engineering, backend systems, and data-intensive applications, particularly where organizations need durable services, clear system boundaries, automation, observability, and scalable architectures that can evolve over time.
+
+I’m currently exploring Staff and Principal Software Engineering opportunities focused on platform engineering, backend systems, developer infrastructure, developer productivity, distributed services, and data-intensive applications.
 
 **Quick Jump:** [Focus](#areas-of-focus) · [Technologies](#technologies-and-platforms) · [Experience](#selected-experience) · [Projects](#personal-projects) · [Interests](#professional-interests) · [Contact](#contact--links)
 
